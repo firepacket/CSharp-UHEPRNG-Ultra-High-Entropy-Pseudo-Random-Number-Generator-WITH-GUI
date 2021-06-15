@@ -1,0 +1,21 @@
+c:\users\user\documents\visual studio 2017\Projects\UHEntropy\UHEntropy\bin\Debug\UHEntropy.exe.config
+c:\users\user\documents\visual studio 2017\Projects\UHEntropy\UHEntropy\bin\Debug\UHEntropy.exe
+c:\users\user\documents\visual studio 2017\Projects\UHEntropy\UHEntropy\bin\Debug\UHEntropy.pdb
+c:\users\user\documents\visual studio 2017\Projects\UHEntropy\UHEntropy\obj\Debug\UHEntropy.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\UHEntropy\UHEntropy\obj\Debug\UHEntropy.Form1.resources
+c:\users\user\documents\visual studio 2017\Projects\UHEntropy\UHEntropy\obj\Debug\UHEntropy.Properties.Resources.resources
+c:\users\user\documents\visual studio 2017\Projects\UHEntropy\UHEntropy\obj\Debug\UHEntropy.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2017\Projects\UHEntropy\UHEntropy\obj\Debug\UHEntropy.exe
+c:\users\user\documents\visual studio 2017\Projects\UHEntropy\UHEntropy\obj\Debug\UHEntropy.pdb
+c:\users\user\documents\visual studio 2017\Projects\UHEntropy\UHEntropy\obj\Debug\UHEntropy.DelimitForm.resources
+C:\Users\User\Dropbox\CSharp Projects\UHEntropy\UHEntropy\bin\Debug\UHEntropy.exe.config
+C:\Users\User\Dropbox\CSharp Projects\UHEntropy\UHEntropy\bin\Debug\UHEntropy.exe
+C:\Users\User\Dropbox\CSharp Projects\UHEntropy\UHEntropy\bin\Debug\UHEntropy.pdb
+C:\Users\User\Dropbox\CSharp Projects\UHEntropy\UHEntropy\obj\Debug\UHEntropy.csprojResolveAssemblyReference.cache
+C:\Users\User\Dropbox\CSharp Projects\UHEntropy\UHEntropy\obj\Debug\UHEntropy.DelimitForm.resources
+C:\Users\User\Dropbox\CSharp Projects\UHEntropy\UHEntropy\obj\Debug\UHEntropy.Form1.resources
+C:\Users\User\Dropbox\CSharp Projects\UHEntropy\UHEntropy\obj\Debug\UHEntropy.Properties.Resources.resources
+C:\Users\User\Dropbox\CSharp Projects\UHEntropy\UHEntropy\obj\Debug\UHEntropy.csproj.GenerateResource.Cache
+C:\Users\User\Dropbox\CSharp Projects\UHEntropy\UHEntropy\obj\Debug\UHEntropy.exe
+C:\Users\User\Dropbox\CSharp Projects\UHEntropy\UHEntropy\obj\Debug\UHEntropy.pdb
+C:\Users\User\Dropbox\CSharp Projects\UHEntropy\UHEntropy\obj\Debug\UHEntropy.Histogram.resources

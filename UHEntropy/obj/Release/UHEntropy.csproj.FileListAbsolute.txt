@@ -1,0 +1,11 @@
+C:\Users\User\Dropbox\GitHub\UHEntropy\UHEntropy\bin\Release\UHEntropy.exe.config
+C:\Users\User\Dropbox\GitHub\UHEntropy\UHEntropy\bin\Release\UHEntropy.exe
+C:\Users\User\Dropbox\GitHub\UHEntropy\UHEntropy\bin\Release\UHEntropy.pdb
+C:\Users\User\Dropbox\GitHub\UHEntropy\UHEntropy\obj\Release\UHEntropy.csprojResolveAssemblyReference.cache
+C:\Users\User\Dropbox\GitHub\UHEntropy\UHEntropy\obj\Release\UHEntropy.DelimitForm.resources
+C:\Users\User\Dropbox\GitHub\UHEntropy\UHEntropy\obj\Release\UHEntropy.Form1.resources
+C:\Users\User\Dropbox\GitHub\UHEntropy\UHEntropy\obj\Release\UHEntropy.Histogram.resources
+C:\Users\User\Dropbox\GitHub\UHEntropy\UHEntropy\obj\Release\UHEntropy.Properties.Resources.resources
+C:\Users\User\Dropbox\GitHub\UHEntropy\UHEntropy\obj\Release\UHEntropy.csproj.GenerateResource.Cache
+C:\Users\User\Dropbox\GitHub\UHEntropy\UHEntropy\obj\Release\UHEntropy.exe
+C:\Users\User\Dropbox\GitHub\UHEntropy\UHEntropy\obj\Release\UHEntropy.pdb
