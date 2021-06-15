@@ -14,14 +14,14 @@ namespace UHEntropy
     {
         double chars = 0;
         UltraHighEntropyPrng rng = new UltraHighEntropyPrng();
-        Random r = new Random();
+        Random r = new Random(); // simulates non cryptographic entropy
 
         public Form1()
         {
             InitializeComponent();
             rng.InitState();
             rng.AddEntropy();
-            rng.RandomString(2560*100); // Priming the engine?
+            rng.RandomString(2560 * r.Next(75, 125)); // Priming the engine?
         }
 
         private void Gobtn_Click(object sender, EventArgs e)

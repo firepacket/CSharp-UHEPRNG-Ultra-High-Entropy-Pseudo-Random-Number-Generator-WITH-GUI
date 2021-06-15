@@ -14,9 +14,9 @@ namespace UHEntropy
       private double[] _intermediates;
       private int _i, _j, _k; // general purpose locals
 
-      private readonly Random _random = new Random(); // Used to simulate javascript's Math.random
-   
-      public UltraHighEntropyPrng()
+      private readonly Random _random = new Random(); // Used to simulate javascript's Math.random (non cryptographic entropy)
+
+        public UltraHighEntropyPrng()
       {
          _order = 48; // set the 'order' number of ENTROPY-holding 32-bit values
          _carry = 1;  // init the 'carry' used by the multiply-with-carry (MWC) algorithm
