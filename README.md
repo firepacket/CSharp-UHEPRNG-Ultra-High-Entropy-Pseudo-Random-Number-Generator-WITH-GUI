@@ -6,6 +6,8 @@ Along with the C# port .cs file is a GUI that duplicates all the functions of th
 
 ![GUI](https://github.com/firepacket/CSharp-UHEPRNG-Ultra-High-Entropy-Pseudo-Random-Number-Generator-WITH-GUI/blob/main/gui.jpg)
 
+Right click the numbers on the left to export them:
+
 ![EXPORT](https://github.com/firepacket/CSharp-UHEPRNG-Ultra-High-Entropy-Pseudo-Random-Number-Generator-WITH-GUI/blob/main/exportnums.jpg)
 
 There is also commented out code that uses a real cryptographic RNG provider so you can compare the differences of output in the histogram.
